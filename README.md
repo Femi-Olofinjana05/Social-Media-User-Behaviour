@@ -1,4 +1,5 @@
 # Can We Use Data To Predict People's Behaviour on Social Media
+(Disclaimer - The dataset used in this project is fully synthetic. The results of this analysis should not be interpreted to reflect the real world.)
 ## Background & Overview
 
 I set out to conduct research on the effects that social media has on us as a society and searched for a means to understand what about social media causes damage as well as the characteristics that leave us susceptible to being negatively influenced by it.
